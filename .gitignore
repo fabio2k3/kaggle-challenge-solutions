@@ -147,3 +147,7 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Datos de Kaggle (mantener carpeta, ignorar contenido)
+data/*
+!data/.gitkeep
